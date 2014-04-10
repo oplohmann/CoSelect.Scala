@@ -1,0 +1,2 @@
+A solution in Scala for CSP-style select as in Google's Go making use of HawtDispatch for non-blocking IO. 
+Requires Scala 2.10. Run the test cases in CoSelectTest to see how it works.
